@@ -9,11 +9,11 @@
 ***Soy una persona proactiva rapida,eficaz y con una probabilidad de fallo del 0% y sobre todo soy resposable y respetuoso me gusta trabajar mucho en equipo ya que siento que se pueden llegar a obtener resultados muy optimos con esta metodologia de trabajo.***
 _ _ _
 ### Conocimientos :brain: :
-+ ***Conocimientos previos en PYTHON***
-+ ***Conocimientos previos en CSS***
-+ ***Conocimientos previos en HTML***
-+ ***Conocimientos previos en BOOTSTRAP***
-+ ***Conocimientos previos en SQL***
++ ***Conocimientos previos en PYTHON*** :book:
++ ***Conocimientos previos en CSS*** :books:
++ ***Conocimientos previos en HTML*** :book:
++ ***Conocimientos previos en BOOTSTRAP*** :books:
++ ***Conocimientos previos en SQL*** :book:
 - - -
 ### Contacto :phone::
 + ***santiagoquinones2005@gmail.com*** :email:
