@@ -1,6 +1,6 @@
 # Hola!¿Como Estan? :wave:
 * * *
-## Bienvenidos a mi perfil, soy Santiago :alien:
+## Bienvenidos a mi perfil, soy Santiago :
 * * *
 ### Un poco sobre mi :scream: :
 ***Mi nombre es Santiago y actualmente tengo 17 años de edad vivo en Colombia, para ser mas especificos en Medellin :city_sunset: y estoy estudiando programaion de software, estoy muy contengo con todos estos nuevos conocimientos que estoy adquiriendo***
@@ -14,6 +14,7 @@ _ _ _
 + ***Conocimientos previos en HTML*** :book:
 + ***Conocimientos previos en BOOTSTRAP*** :books:
 + ***Conocimientos previos en SQL*** :book:
++ ***Conocimientos previos en PHP*** :book:
 - - -
 ### Contacto :phone::
 + ***santiagoquinones2005@gmail.com*** :email:
